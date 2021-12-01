@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-built-with-grid-3C-ebcdT0
+- Live Site URL: https://zeerobit.github.io/four-card/
 
 ## My process
 
@@ -74,7 +74,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource ](https://developer.mozilla.org/en-US/) 
+- https://developer.mozilla.org/en-US/
 
 
 
