@@ -159,7 +159,7 @@ body {
   padding: 5rem 2rem;
 }
 h1,
-h3 {
+h2 {
   text-align: center;
   margin-bottom: 0.8rem;
 }
@@ -176,7 +176,7 @@ span {
   display: block;
 }
 
-h3 {
+h2 {
   font-size: 1rem;
   color: var(--grayish_blue);
   margin-top: 1.5rem;
@@ -208,7 +208,7 @@ img {
   font-size: 0.9rem;
 }
 
-h4 {
+h3 {
   font-size: 1.2rem;
   font-weight: 600;
   color: var(--very_dark_blue);
@@ -259,12 +259,11 @@ h4 {
     margin: auto;
   }
 
-  h1,
-  h2 {
+  h1 {
     font-size: 2rem;
   }
 
-  h3 {
+  h2 {
     font-size: 1.1rem;
   }
 
